@@ -10,7 +10,7 @@ FXserver ESX ATM Hold Up
 1) CD in your resources/[esx] folder
 2) Clone the repository
 ```
-git clone https://github.com/danini1705/tree/master/esx_atmholdup esx_atmholdup
+git clone https://github.com/danini1705/esx_atmholdup esx_atmholdup
 ```
 
 3) Add this in your server.cfg :
